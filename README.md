@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 Start json server [knowmore](https://github.com/typicode/json-server).\
 Now if you go to [http://localhost:3000/users](http://localhost:3000/users), you will get datas like this 
-```
+```json
 {
       "id": 9,
       "name": "gasdgfs",
