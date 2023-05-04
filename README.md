@@ -6,6 +6,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `json-server --watch db.json`
+
+Start json server [knowmore](https://github.com/typicode/json-server).\
+Now if you go to [http://localhost:3000/users](http://localhost:3000/users), you will get datas like this 
+```
+{
+      "id": 9,
+      "name": "gasdgfs",
+      "email": "dgfdsgsdg"
+ }
+```
+
 ### `npm start`
 
 Runs the app in the development mode.\
