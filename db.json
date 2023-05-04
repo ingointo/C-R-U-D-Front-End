@@ -1,0 +1,160 @@
+{
+  "users": [
+    {
+      "name": "dfasdf",
+      "email": "dsfadasfd",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "gasdgfs",
+      "email": "dgfdsgsdg"
+    },
+    {
+      "id": 10,
+      "name": "dfd",
+      "email": "fdf"
+    },
+    {
+      "id": 11,
+      "name": "dfdf",
+      "email": "dfdfdf"
+    },
+    {
+      "id": 12,
+      "name": "dfasdfasdaf",
+      "email": "dasfdsf"
+    },
+    {
+      "id": "asdfasdfsadf",
+      "name": "fsdfsdf",
+      "password": "dsfdsfsdafsd",
+      "email": "sdafsadfasdf@gmail.com",
+      "phone": "43546545363456",
+      "country": "india"
+    },
+    {
+      "id": "sdfasdf",
+      "name": "asdfsadf",
+      "password": "afsdafsadf",
+      "email": "dsafasdf@gmail.com",
+      "phone": "",
+      "country": "india"
+    },
+    {
+      "id": "gaga",
+      "name": "sgdasgasdg",
+      "password": "464563456",
+      "email": "asdhfsdh@gmail.com",
+      "phone": "43624362546254",
+      "country": "india"
+    },
+    {
+      "id": "asfdasdf",
+      "name": "asdfasdfasfda",
+      "password": "dsfgsdasg",
+      "email": "asdfasdf@gmail.com",
+      "phone": "643563456345",
+      "country": "india"
+    },
+    {
+      "id": "asfasdf",
+      "name": "asfasdf",
+      "password": "asdfasf",
+      "email": "adsfads@gmail.com",
+      "phone": "436456345",
+      "country": "india"
+    },
+    {
+      "id": "sadfasdfasdf",
+      "name": "retwertet",
+      "password": "sadfasd",
+      "email": "fsadfsd@gmail.com",
+      "phone": "5654634563",
+      "country": "india"
+    },
+    {
+      "id": "asfasdfasd",
+      "name": "fasdfsadfasf",
+      "password": "dsaf",
+      "email": "asdfdasf@gmail.com",
+      "phone": "4354364536",
+      "country": "india"
+    },
+    {
+      "id": "gasdgas",
+      "name": "dgasdgads",
+      "password": "453643564",
+      "email": "asfdhasdifh@gmail.com",
+      "phone": "64564356",
+      "country": "india"
+    },
+    {
+      "id": "asdfasdfasdf",
+      "name": "sfdhsdfhsf",
+      "password": "dhhsdfhs",
+      "email": "dahsdkjh@gmail.com",
+      "phone": "43625464356",
+      "country": "india"
+    },
+    {
+      "id": "asdgadsg",
+      "name": "sadfasdf",
+      "password": "adsgadsgasd",
+      "email": "gsadgasd@gmail.com",
+      "phone": "54634563456",
+      "country": "india"
+    },
+    {
+      "id": "adsfadsfas",
+      "name": "fasdfasdfasdfasd",
+      "password": "34563456",
+      "email": "5asfdkjhasdifh@gmail.com",
+      "phone": "643563546",
+      "country": "india"
+    },
+    {
+      "id": "sadgasdgasd",
+      "name": "asdfasdf",
+      "password": "gasdgasdg",
+      "email": "asdgasdg@gmail.com",
+      "phone": "45654363456",
+      "country": "india"
+    },
+    {
+      "id": "tintu",
+      "name": "dasfasdf",
+      "password": "admin",
+      "email": "tintu@gmail.com",
+      "phone": "645363456",
+      "country": "india"
+    }
+  ],
+  "medicines": [
+    {
+      "id": 1,
+      "Medicine": "Omega",
+      "Price": "100"
+    },
+    {
+      "id": 2,
+      "Medicine": "Trigo",
+      "Price": "300"
+    },
+    {
+      "id": 3,
+      "Medicine": "Kiran Radhik.A R",
+      "Price": "dsfasdf"
+    },
+    {
+      "id": 4,
+      "Medicine": "sdfasdf",
+      "Price": "dsfdsaf"
+    },
+    {
+      "id": 5,
+      "Medicine": "trigo stara",
+      "Price": "59099"
+    }
+  ]
+}
