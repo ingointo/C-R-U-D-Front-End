@@ -4,9 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Fake API using Crud Operatioons Front-End Medicine Store
 In the project directory, you can run:
-
-### Fake API using Crud Operatioons Front-End Medicine Store
 
 ### `json-server --watch db.json` 
 
